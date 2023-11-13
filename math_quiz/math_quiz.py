@@ -2,7 +2,7 @@ import random
 
 # Constants
 MIN_NUMBER1 = 1
-MAX_NUMBER1 = 9
+MAX_NUMBER1 = 10
 MIN_NUMBER2 = 0
 MAX_NUMBER2 = 10
 NUM_QUESTIONS = 5
